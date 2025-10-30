@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+		<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="utf-8"/>
@@ -17,7 +17,7 @@ table th, table td { text-align:center; }
 </head>
 <body class="p-6">
 
-<!-- صفحة تسجيل الدخول -->
+												<!-- صفحة تسجيل الدخول -->
 <div id="loginPage" class="flex justify-center items-center h-screen">
   <div class="card w-96 p-6">
     <h1 class="text-xl font-bold mb-4">تسجيل الدخول</h1>
